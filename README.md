@@ -1,8 +1,8 @@
-# Algoritmos de Eleição com Java
+# Algoritmos de Eleição em Java 
 
-Trabalho ( APS)  sobre algoritmos de eleição para a disciplina de Sistemas Distribuídos. 
+Trabalho ( APS)  sobre algoritmos de eleição para a disciplina Sistemas Distribuídos. 
 
 Algoritmos utilizados:
 
--Algoritmo de Bully (Valentão)
--Algoritmo Logical Ring (Anel)
+- . Algoritmo de Bully (Valentão)
+- . Algoritmo Logical Ring (Anel)
